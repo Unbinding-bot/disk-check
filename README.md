@@ -41,6 +41,8 @@ Runs two of Windows own built-in repair tools back to back. SFC scans all of Win
 ## Final Report
 Once all nine sections are done, it prints a summary of everything, how many issues were found, what was fixed automatically, and anything it had to skip. The full detailed log is also saved as a timestamped .txt file in the same folder as the script so you have a record of the run.
 
+
+## 
 dont judge me i got all of this from google, reddit, and other tech forums.
 
 
