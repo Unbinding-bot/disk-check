@@ -1,2 +1,1 @@
-# disk-check
-a powershell script to check disk health
+#A powershell script to check disk health
